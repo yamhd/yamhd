@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **C++ // CSS // HTML**
 
-- 👨‍💻 All of my projects are available on [My Website](My Website)
+- 👨‍💻 All of my projects are available on My Website (Soon)
 
 - 💬 Ask me about **Help, Bots, Servers**
 
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Im A Godly Gamer**
 
